@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: Demo-RG-1
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 65c7ec88-c130-4921-b4d3-60c5506d3042
+  SUBSCRIPTION-ID: e6b761fc-f852-4952-a285-9edfc03004db
   WEBAPP-NAME: devops-webapp-centralus
 
 jobs:
